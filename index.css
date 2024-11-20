@@ -61,7 +61,7 @@
   /* Landing Page */
   .landing-page {
     height: 100vh;
-    /* background: url('/pics/pic.jpg') no-repeat center center/cover; */
+    background: url('/pics/pic.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
